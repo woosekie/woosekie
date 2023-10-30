@@ -1,18 +1,19 @@
-### Hi there 👋
+# _Hi there, I'm Rizky Nuansa! 👋_
 
-<!--
-**woosekie/woosekie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_I'm a __Mobile Developer__, welcome to my GitHub profile!_
 
-Here are some ideas to get you started:
+🌱 _I’m currently learning __Dart Programming Language__ & __Flutter Framework__._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=woosekie&show_icons=true&theme=radical">
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woosekie&layout=compact">
+## 💬 _Let's Connect_
+
+- _[LinkedIn](https://www.linkedin.com/in/rizkynuansa/)_
+- _[Dribbble](https://dribbble.com/woosekie)_
+- _[Portofolio](https://woosekie.github.io/html-css-js-portofolio/)_
+
+_Feel free to reach out to me. I'm always open to interesting discussions and collaborations!_
+
+## 📊 _GitHub Stats_
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woosekie)
+
+_Thanks for visiting my GitHub profile!_ 😄
